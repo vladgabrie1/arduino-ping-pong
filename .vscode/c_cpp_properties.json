@@ -1,0 +1,54 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/include",
+                "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/src",
+                "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/potentiometer",
+                "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/led_utils",
+                "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/buzzer",
+                "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/button",
+                "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/display",
+                "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/usart",
+                "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/.pio/libdeps/ATmega328P/Unity/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/include",
+                    "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/src",
+                    "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/potentiometer",
+                    "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/led_utils",
+                    "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/buzzer",
+                    "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/button",
+                    "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/display",
+                    "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/lib/usart",
+                    "/Users/vladbuinceanu/Infrastrucrure-Term 4/vladgabriel-buinceanu/Ping-Pong/.pio/libdeps/ATmega328P/Unity/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=16000000L",
+                "PLATFORMIO=60107",
+                "ARDUINO_AVR_ATmega328P",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "/Users/vladbuinceanu/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
