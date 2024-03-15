@@ -1,6 +1,3 @@
-
-# Rewritten Markdown Description for the Arduino Ping Pong Game Repository
-
 # 🎯 Arduino Ping Pong Game
 
 Welcome to the exciting world of Arduino Ping Pong! 🏓 In this repository, we've created a virtual ping pong game that combines the thrill of table tennis with the magic of Arduino. 🤖
